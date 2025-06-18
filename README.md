@@ -9,7 +9,7 @@ A tool for annotating how cells spatially SPOKE to each other.
 For python environment, we offer packed environment file spoke_env.tar.gz
 You can move it to the anaconda path (like <home>/anaconda/envs/) and unzip the file using:
 ```
-tar -xzf spoke_env.tar.gz
+tar -xzf SPOKE21_env.tar.gz
 source activate
 ```
 
