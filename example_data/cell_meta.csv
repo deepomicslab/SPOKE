@@ -1,0 +1,294 @@
+,barcode,x,y,cell_type,barcode1
+0,0,15,7,Melanoma or unclassified,0
+1,1,16,7,Melanoma or unclassified,1
+2,2,17,7,Melanoma or unclassified,2
+3,3,18,7,Melanoma or unclassified,3
+4,4,13,8,Melanoma or unclassified,4
+5,5,14,8,Melanoma or unclassified,5
+6,6,15,8,Melanoma or unclassified,6
+7,7,16,8,Melanoma or unclassified,7
+8,8,17,8,B,8
+9,9,18,8,CAF,9
+10,10,19,8,Melanoma or unclassified,10
+11,11,13,9,T,11
+12,12,14,9,Macro,12
+13,13,15,9,Melanoma or unclassified,13
+14,14,16,9,Melanoma or unclassified,14
+15,15,17,9,B,15
+16,16,18,9,CAF,16
+17,17,13,10,Melanoma or unclassified,17
+18,18,15,10,Melanoma or unclassified,18
+19,19,16,10,CAF,19
+20,20,17,10,CAF,20
+21,21,18,10,CAF,21
+22,22,12,11,B,22
+23,23,13,11,B,23
+24,24,14,11,Melanoma or unclassified,24
+25,25,15,11,Melanoma or unclassified,25
+26,26,16,11,Melanoma or unclassified,26
+27,27,17,11,CAF,27
+28,28,12,12,Melanoma or unclassified,28
+29,29,13,12,Melanoma or unclassified,29
+30,30,14,12,Melanoma or unclassified,30
+31,31,15,12,Melanoma or unclassified,31
+32,32,16,12,Macro,32
+33,33,17,12,CAF,33
+34,34,11,13,Melanoma or unclassified,34
+35,35,12,13,Melanoma or unclassified,35
+36,36,13,13,Melanoma or unclassified,36
+37,37,14,13,Melanoma or unclassified,37
+38,38,15,13,Melanoma or unclassified,38
+39,39,16,13,Melanoma or unclassified,39
+40,40,17,13,CAF,40
+41,41,18,13,CAF,41
+42,42,7,14,Melanoma or unclassified,42
+43,43,8,14,Melanoma or unclassified,43
+44,44,9,14,Melanoma or unclassified,44
+45,45,10,14,Melanoma or unclassified,45
+46,46,11,14,Melanoma or unclassified,46
+47,47,12,14,Melanoma or unclassified,47
+48,48,13,14,Melanoma or unclassified,48
+49,49,14,14,Melanoma or unclassified,49
+50,50,15,14,Melanoma or unclassified,50
+51,51,16,14,Melanoma or unclassified,51
+52,52,17,14,CAF,52
+53,53,18,14,CAF,53
+54,54,5,15,Melanoma or unclassified,54
+55,55,6,15,Melanoma or unclassified,55
+56,56,7,15,Melanoma or unclassified,56
+57,57,8,15,Melanoma or unclassified,57
+58,58,9,15,Melanoma or unclassified,58
+59,59,10,15,Melanoma or unclassified,59
+60,60,11,15,Melanoma or unclassified,60
+61,61,12,15,Melanoma or unclassified,61
+62,62,13,15,Melanoma or unclassified,62
+63,63,14,15,Melanoma or unclassified,63
+64,64,15,15,Melanoma or unclassified,64
+65,65,16,15,Melanoma or unclassified,65
+66,66,17,15,CAF,66
+67,67,18,15,Melanoma or unclassified,67
+68,68,3,16,Melanoma or unclassified,68
+69,69,4,16,Melanoma or unclassified,69
+70,70,5,16,Melanoma or unclassified,70
+71,71,6,16,Melanoma or unclassified,71
+72,72,7,16,Melanoma or unclassified,72
+73,73,8,16,Melanoma or unclassified,73
+74,74,9,16,Melanoma or unclassified,74
+75,75,10,16,Melanoma or unclassified,75
+76,76,11,16,Melanoma or unclassified,76
+77,77,12,16,Melanoma or unclassified,77
+78,78,13,16,Melanoma or unclassified,78
+79,79,14,16,Melanoma or unclassified,79
+80,80,15,16,Melanoma or unclassified,80
+81,81,16,16,Melanoma or unclassified,81
+82,82,17,16,CAF,82
+83,83,18,16,Melanoma or unclassified,83
+84,84,19,16,CAF,84
+85,85,4,17,Melanoma or unclassified,85
+86,86,5,17,Melanoma or unclassified,86
+87,87,6,17,Melanoma or unclassified,87
+88,88,7,17,Melanoma or unclassified,88
+89,89,8,17,Melanoma or unclassified,89
+90,90,9,17,Melanoma or unclassified,90
+91,91,10,17,Melanoma or unclassified,91
+92,92,11,17,Melanoma or unclassified,92
+93,93,12,17,Melanoma or unclassified,93
+94,94,13,17,Melanoma or unclassified,94
+95,95,14,17,Melanoma or unclassified,95
+96,96,15,17,Melanoma or unclassified,96
+97,97,16,17,CAF,97
+98,98,17,17,CAF,98
+99,99,18,17,Melanoma or unclassified,99
+100,100,19,17,Melanoma or unclassified,100
+101,101,20,17,CAF,101
+102,102,21,17,CAF,102
+103,103,4,18,Melanoma or unclassified,103
+104,104,5,18,CAF,104
+105,105,6,18,Melanoma or unclassified,105
+106,106,7,18,Melanoma or unclassified,106
+107,107,8,18,Melanoma or unclassified,107
+108,108,9,18,Melanoma or unclassified,108
+109,109,10,18,Melanoma or unclassified,109
+110,110,11,18,Melanoma or unclassified,110
+111,111,12,18,Melanoma or unclassified,111
+112,112,13,18,Melanoma or unclassified,112
+113,113,14,18,Melanoma or unclassified,113
+114,114,15,18,Melanoma or unclassified,114
+115,115,16,18,CAF,115
+116,116,17,18,CAF,116
+117,117,18,18,Melanoma or unclassified,117
+118,118,19,18,Melanoma or unclassified,118
+119,119,20,18,CAF,119
+120,120,21,18,B,120
+121,121,22,18,CAF,121
+122,122,23,18,CAF,122
+123,123,24,18,CAF,123
+124,124,4,19,Melanoma or unclassified,124
+125,125,5,19,Melanoma or unclassified,125
+126,126,6,19,Melanoma or unclassified,126
+127,127,7,19,Melanoma or unclassified,127
+128,128,8,19,Melanoma or unclassified,128
+129,129,9,19,Melanoma or unclassified,129
+130,130,10,19,Melanoma or unclassified,130
+131,131,11,19,Melanoma or unclassified,131
+132,132,12,19,Melanoma or unclassified,132
+133,133,13,19,Melanoma or unclassified,133
+134,134,14,19,Melanoma or unclassified,134
+135,135,15,19,Melanoma or unclassified,135
+136,136,16,19,B,136
+137,137,17,19,CAF,137
+138,138,18,19,CAF,138
+139,139,19,19,CAF,139
+140,140,20,19,CAF,140
+141,141,21,19,B,141
+142,142,22,19,CAF,142
+143,143,23,19,CAF,143
+144,144,24,19,CAF,144
+145,145,25,19,CAF,145
+146,146,26,19,CAF,146
+147,147,27,19,CAF,147
+148,148,28,19,CAF,148
+149,149,5,20,Melanoma or unclassified,149
+150,150,6,20,Melanoma or unclassified,150
+151,151,7,20,Melanoma or unclassified,151
+152,152,8,20,Melanoma or unclassified,152
+153,153,9,20,Melanoma or unclassified,153
+154,154,10,20,Melanoma or unclassified,154
+155,155,11,20,Melanoma or unclassified,155
+156,156,12,20,Melanoma or unclassified,156
+157,157,13,20,B,157
+158,158,14,20,Melanoma or unclassified,158
+159,159,15,20,Melanoma or unclassified,159
+160,160,16,20,CAF,160
+161,161,17,20,Melanoma or unclassified,161
+162,162,18,20,Endo,162
+163,163,19,20,CAF,163
+164,164,20,20,CAF,164
+165,165,21,20,B,165
+166,166,22,20,B,166
+167,167,23,20,CAF,167
+168,168,24,20,CAF,168
+169,169,25,20,CAF,169
+170,170,26,20,CAF,170
+171,171,27,20,CAF,171
+172,172,28,20,CAF,172
+173,173,6,21,Melanoma or unclassified,173
+174,174,7,21,Melanoma or unclassified,174
+175,175,8,21,Melanoma or unclassified,175
+176,176,9,21,Melanoma or unclassified,176
+177,177,10,21,Melanoma or unclassified,177
+178,178,11,21,Melanoma or unclassified,178
+179,179,12,21,Melanoma or unclassified,179
+180,180,13,21,Melanoma or unclassified,180
+181,181,14,21,Melanoma or unclassified,181
+182,182,15,21,Macro,182
+183,183,16,21,CAF,183
+184,184,17,21,CAF,184
+185,185,18,21,CAF,185
+186,186,19,21,CAF,186
+187,187,20,21,B,187
+188,188,21,21,B,188
+189,189,22,21,B,189
+190,190,23,21,B,190
+191,191,24,21,CAF,191
+192,192,25,21,B,192
+193,193,26,21,B,193
+194,194,27,21,CAF,194
+195,195,28,21,CAF,195
+196,196,6,22,Melanoma or unclassified,196
+197,197,7,22,Melanoma or unclassified,197
+198,198,8,22,Melanoma or unclassified,198
+199,199,9,22,Melanoma or unclassified,199
+200,200,10,22,Melanoma or unclassified,200
+201,201,11,22,Melanoma or unclassified,201
+202,202,12,22,Melanoma or unclassified,202
+203,203,13,22,Melanoma or unclassified,203
+204,204,14,22,CAF,204
+205,205,15,22,CAF,205
+206,206,16,22,CAF,206
+207,207,17,22,CAF,207
+208,208,18,22,CAF,208
+209,209,19,22,CAF,209
+210,210,20,22,CAF,210
+211,211,21,22,B,211
+212,212,22,22,B,212
+213,213,23,22,B,213
+214,214,24,22,CAF,214
+215,215,25,22,B,215
+216,216,26,22,B,216
+217,217,27,22,B,217
+218,218,7,23,Melanoma or unclassified,218
+219,219,8,23,Melanoma or unclassified,219
+220,220,9,23,Melanoma or unclassified,220
+221,221,10,23,Melanoma or unclassified,221
+222,222,11,23,Melanoma or unclassified,222
+223,223,12,23,Melanoma or unclassified,223
+224,224,13,23,CAF,224
+225,225,14,23,CAF,225
+226,226,15,23,CAF,226
+227,227,16,23,CAF,227
+228,228,17,23,CAF,228
+229,229,18,23,CAF,229
+230,230,19,23,B,230
+231,231,20,23,B,231
+232,232,21,23,B,232
+233,233,22,23,B,233
+234,234,23,23,T,234
+235,235,24,23,T,235
+236,236,25,23,T,236
+237,237,26,23,T,237
+238,238,8,24,Melanoma or unclassified,238
+239,239,9,24,Melanoma or unclassified,239
+240,240,10,24,Melanoma or unclassified,240
+241,241,11,24,Melanoma or unclassified,241
+242,242,12,24,Melanoma or unclassified,242
+243,243,13,24,Melanoma or unclassified,243
+244,244,14,24,CAF,244
+245,245,15,24,CAF,245
+246,246,16,24,CAF,246
+247,247,17,24,CAF,247
+248,248,18,24,CAF,248
+249,249,19,24,CAF,249
+250,250,20,24,Endo,250
+251,251,21,24,B,251
+252,252,22,24,B,252
+253,253,23,24,T,253
+254,254,24,24,B,254
+255,255,25,24,B,255
+256,256,9,25,T,256
+257,257,10,25,Melanoma or unclassified,257
+258,258,11,25,Melanoma or unclassified,258
+259,259,12,25,Melanoma or unclassified,259
+260,260,13,25,Endo,260
+261,261,14,25,CAF,261
+262,262,15,25,CAF,262
+263,263,16,25,Melanoma or unclassified,263
+264,264,17,25,CAF,264
+265,265,18,25,CAF,265
+266,266,19,25,Melanoma or unclassified,266
+267,267,20,25,CAF,267
+268,268,21,25,B,268
+269,269,22,25,B,269
+270,270,23,25,T,270
+271,271,24,25,B,271
+272,272,11,26,Melanoma or unclassified,272
+273,273,12,26,CAF,273
+274,274,13,26,Melanoma or unclassified,274
+275,275,14,26,CAF,275
+276,276,15,26,CAF,276
+277,277,16,26,CAF,277
+278,278,17,26,CAF,278
+279,279,18,26,CAF,279
+280,280,19,26,CAF,280
+281,281,20,26,CAF,281
+282,282,21,26,B,282
+283,283,22,26,B,283
+284,284,23,26,T,284
+285,285,14,27,Melanoma or unclassified,285
+286,286,15,27,CAF,286
+287,287,17,27,CAF,287
+288,288,18,27,CAF,288
+289,289,19,27,CAF,289
+290,290,20,27,CAF,290
+291,291,21,27,B,291
+292,292,22,27,B,292
