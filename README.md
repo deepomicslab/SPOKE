@@ -6,7 +6,7 @@ A tool for annotating how cells spatially SPOKE to each other.
 
 <!--  Please see requirements.txt for Python environment (Python=3.10.9).--> 
 <!--  For R script, ggplot2, igraph, dplyr, and tidyr are required.--> 
-For python environment, we offer packed environment file spoke_env.tar.gz at https://yunpan.tongji.edu.cn/link/ARB8AB3BAF2A5A461FA6DB533C3EDC92DE 
+For python environment, we offer packed environment file spoke_env.tar.gz at [https://yunpan.tongji.edu.cn/link/ARB8AB3BAF2A5A461FA6DB533C3EDC92DE](https://yunpan.tongji.edu.cn/link/AAA53E8AFBF8DD409096DBEF09E1544115) 
 You can move it to the anaconda path (like <home>/anaconda/envs/) and unzip the file using:
 ```
 tar -xzf SPOKE21_env.tar.gz
